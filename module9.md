@@ -1,6 +1,6 @@
 ## EXP NO 11 : C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 ```
-Developed by: RENUKA
+Developed by: RAMESH RENUKA
 Reg no.  212223240136
 ```
 ## Aim:
