@@ -5,7 +5,6 @@ Reg no.  212223240136
 ```
 ## Aim:
 To write a C program print the lowercase English word corresponding to the number
-
 ## Algorithm:
 1.	Start
 - Initialize an integer variable n.
