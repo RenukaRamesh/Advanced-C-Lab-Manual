@@ -5,7 +5,6 @@ Developed by: RAMESH RENUKA
 Reg no.  212223240136
 ```
 Aim:
-
 To write a C program to create a function to find the greatest number
 
 Algorithm:
