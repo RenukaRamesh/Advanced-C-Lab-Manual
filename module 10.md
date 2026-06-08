@@ -4,7 +4,6 @@ EXP NO:16 C PROGRAM TO SEARCH A GIVEN ELEMENT IN THE GIVEN LINKED LIST.
 Developed by: RAMESH RENUKA
 Reg no.  212223240136
 ```
-
 Aim:
 
 To write a C program to search a given element in the given linked list.
