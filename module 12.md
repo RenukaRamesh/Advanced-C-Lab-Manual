@@ -2,7 +2,6 @@
 ```
 Developed by: RAMESH RENUKA
 Reg no.  212223240136
-
 ```
 ## Aim:
 To write a C program to display stack elements using linked list.
